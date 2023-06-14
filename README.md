@@ -1,2 +1,2 @@
 # xorshift-rs
-XORShift RNG implementation in rust
+XORShift RNG implementation in rust. Not benchmarked yet
