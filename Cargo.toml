@@ -1,0 +1,4 @@
+[package]
+name = "xorshift-rs"
+version = "1.0.0"
+authors = ["zignis <https://github.com/zignis>"]
