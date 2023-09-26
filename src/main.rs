@@ -32,7 +32,7 @@ impl IdGenerator {
 }
 
 fn main() {
-    let mut id_gen = IdGenerator::new(99128);
+    let mut id_gen = IdGenerator::new(5);
     for _ in 0..5 {
         let id = id_gen.generate();
         println!("Sample ID: {}", id);
